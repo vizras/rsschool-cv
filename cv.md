@@ -28,4 +28,17 @@ November 2014 – March 2022
 * Installation, configuration IP video surveillance networks
 * Implementation of Smart Home systems
 
+Courses and certificates
+------------------------
 
+* Extreme Certified Specialist (EOS Switching and Routing)
+* Cisco Certificate Of Completion Configuring BGP on Cisco Routers
+* Cisco Networking Academy
+* Skillbox - Java Developer
+* Automated Testing - EPAM (video course)
+
+Additional Information
+----------------------
+
+* The presence of a driver's license (category): A, B
+* Leisure activities: Learning JAVA, music (playing musical instruments), sports (running, cycling, exercise bike, swimming).
