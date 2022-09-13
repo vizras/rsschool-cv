@@ -1,0 +1,17 @@
+<html>
+<head>
+<style type="text/css">
+
+  A.pushLink { padding: 0 3px; font-weight: bold; text-decoration: none; }
+  A:hover.pushLink { padding: 0; }
+  A:hover.pushLink span { margin: 0 3px; color: red; }
+
+</style>
+</head>
+
+<body>
+
+<a class="pushLink" href="">[ <span>CSS cсылки</span> ]</a>
+
+</body>
+</html>
